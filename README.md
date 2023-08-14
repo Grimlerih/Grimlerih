@@ -1,16 +1,17 @@
-### Hi there 👋
+## Привет, меня зовут Дастан 👋
+## 🙋‍♂ Обо мне
+Я фронтенд разработчик с большой страстью к технологиям и стремлением вести человечество в благополучное будущее. Я уверен, что через разработку фронтенда я могу внести свой вклад в создание инновационных и удобных решений, которые сделают жизнь людей лучше.
+<br>
+<br>
+## 💻 Мой основной стек:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,git,redux,webpack,figma)](https://skillicons.dev)
 
-<!--
-**Grimlerih/Grimlerih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Также изучаю:
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=jest,webpack,mongodb,express,nestjs,postgres)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊  Статистика
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grimlerih&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grimlerih&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grimlerih&theme=github)
