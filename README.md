@@ -8,7 +8,7 @@
 
 📚 Также изучаю:
 
-[![My Skills](https://skillicons.dev/icons?i=jest,webpack,mongodb,express,nestjs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,mongodb,express,nestjs,postgres)](https://skillicons.dev)
 
 ## 📊  Статистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grimlerih&theme=github)
