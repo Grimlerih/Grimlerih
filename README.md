@@ -10,6 +10,3 @@
   <a href="https://wa.clck.bar/79119014528" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="yp21untd" width="45" /></a>
 </div>
 
-## 📊  Статистика
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grimlerih&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grimlerih&theme=github)
